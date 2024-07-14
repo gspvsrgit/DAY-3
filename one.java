@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-i am from java two three
->>>>>>> dev
+i am from pythone
