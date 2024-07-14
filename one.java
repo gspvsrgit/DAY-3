@@ -1,1 +1,3 @@
-i am from java
+<<<<<<< HEAD
+i am from java two three
+>>>>>>> dev
